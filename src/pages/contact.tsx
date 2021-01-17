@@ -13,17 +13,17 @@ const contacts = [
   {
     Comp: Twitter,
     alt: 'twitter icon',
-    link: 'https://twitter.com/_ijjk',
+    link: 'https://twitter.com/hold_hopes',
   },
   {
     Comp: GitHub,
     alt: 'github icon',
-    link: 'https://github.com/ijjk',
+    link: 'https://github.com/wuchangsheng951',
   },
   {
     Comp: LinkedIn,
     alt: 'linkedin icon',
-    link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
+    link: 'https://www.linkedin.com/in/huiming-sun-967419197',
   },
   {
     Comp: Envelope,
